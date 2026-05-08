@@ -36,3 +36,16 @@ pip install -r requirements.txt
 # place the 9 CSVs in data/raw/
 jupyter notebook notebooks/01_eda.ipynb
 ```
+
+## Results
+
+              precision    recall  f1-score   support
+
+           0       0.91      0.97      0.94     16802
+           1       0.65      0.33      0.43      2470
+
+    accuracy                           0.89     19272
+    macro avg      0.78      0.65      0.69     19272
+    weighted avg   0.87      0.89      0.87     19272
+
+    ROC-AUC: 0.7413
