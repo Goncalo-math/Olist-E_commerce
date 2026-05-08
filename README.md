@@ -49,3 +49,12 @@ jupyter notebook notebooks/01_eda.ipynb
     weighted avg   0.87      0.89      0.87     19272
 
     ROC-AUC: 0.7413
+
+    Confusion Matrix:
+    [[16415   387]
+     [ 1689   781]]
+    Accuracy: 0.8923
+    
+    Performing 10-fold cross-validation:
+    Accuracy: 89.44 %
+    Standard Deviation: 0.21 %
