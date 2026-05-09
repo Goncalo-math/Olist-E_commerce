@@ -1,0 +1,9 @@
+# requirements.txt
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+lightgbm
+imbalanced-learn   # for handling class imbalance
