@@ -9,6 +9,8 @@
 
 End-to-end analysis and prediction system built on the **Olist Brazilian E-Commerce dataset** (100k orders, 2016–2018). The project explores the drivers of customer dissatisfaction and trains a classifier to **flag orders likely to receive a negative review before it is posted**, enabling proactive intervention by customer success teams.
 
+The data set used can be found in https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 ## What this repo does
 
 | | |
